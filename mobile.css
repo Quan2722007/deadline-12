@@ -17,6 +17,7 @@
         .inner__box-1 {
           gap: 50px;
           .inner__wrap-1 {
+            margin: 0;
             max-width: 296px;
             gap: 0;
             .inner__title {
@@ -463,6 +464,7 @@
               }
             }
             .inner__block-1 {
+              margin-right: 15px;
               max-width: 305px;
               width: 100%;
 
@@ -490,6 +492,7 @@
                   font-size: 14px;
                 }
                 .inner__content {
+                  color: #00000080;
                   font-size: 14px;
                 }
               }
@@ -898,7 +901,7 @@
             .email {
               max-width: 161.94px;
               padding-left: 12.81px;
-              height: 40px;
+              height: 38px;
             }
             input::placeholder {
               font-size: 14px;
